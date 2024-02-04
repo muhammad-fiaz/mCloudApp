@@ -79,7 +79,7 @@ Before you begin, ensure you have Flutter installed. For detailed instructions, 
 
 For detailed information on Flutter development, refer to the [online documentation](https://docs.flutter.dev/), which includes tutorials, samples, guidance on mobile development, and a full API reference.
 
-Feel free to customize this README to include more specific details about your Medium Clone App.
+Feel free to customize this README to include more specific details 
 
 ## Contributing
 
