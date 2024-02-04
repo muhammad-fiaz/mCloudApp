@@ -1,5 +1,18 @@
+
+<div align="center">
+    
+![preview](https://github.com/muhammad-fiaz/mCloudApp/assets/75434191/ae1550ac-2d58-4144-a78e-d522c3d123ca)
+
 # mCloud
 
+[![CodeQL](https://github.com/muhammad-fiaz/mCLoudApp/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/mCLoudApp/actions/workflows/github-code-scanning/codeql)
+[![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
+[![Pull Requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/pulls)
+[![Issues](https://img.shields.io/github/issues/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/issues)
+[![License](https://img.shields.io/github/license/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/commits/main)
+
+</div>
 mCloud is your go-to cloud storage and file-sharing solution, inspired by the robust features of OneDrive and crafted with Flutter. It offers a secure and user-friendly platform for managing your digital assets. Whether you're safeguarding essential documents, preserving cherished photos, or collaborating seamlessly on projects, mCloud is meticulously designed to simplify your digital life.
 
 **Note: This Flutter Template Contains Placeholder Content for Demo Purposes. This project is still in active development. If you want to add or improve features, make sure to fork and contribute to this repo. Don't forget to star 🌟 the repo if you like it!**
