@@ -43,7 +43,7 @@ dependencies:
   flutter_vector_icons: ^1.0.0
   share: ^2.0.4
   package_info: ^2.0.2
-  url_launcher: ^6.0.3
+  url_launcher: ^6.2.6
 
 dev_dependencies:
   flutter_test:
