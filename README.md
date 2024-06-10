@@ -11,7 +11,13 @@
 [![Issues](https://img.shields.io/github/issues/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/issues)
 [![License](https://img.shields.io/github/license/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/mCLoudApp)](https://github.com/muhammad-fiaz/mCLoudApp/commits/main)
-
+[![Follow me on GitHub](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social)](https://github.com/muhammad-fiaz)
+<a href="https://discord.gg/uRkZ5cHf" target="_blank">
+  <img
+    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
+    alt="discord invite"
+  />
+</a>
 </div>
 
 mCloud is your go-to cloud storage and file-sharing solution, inspired by the robust features of OneDrive and crafted with Flutter. It offers a secure and user-friendly platform for managing your digital assets. Whether you're safeguarding essential documents, preserving cherished photos, or collaborating seamlessly on projects, mCloud is meticulously designed to simplify your digital life.
